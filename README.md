@@ -21,10 +21,10 @@ Well... I have extensive knowledge in several technologies:<br/>
 This toolbox is in continuous growth and update... it's almost like a living organism: it grows and strengthens the more it is used
 </p>
 
-For that reason, and due in my desire to expand and deepen my knowledge, I am learning:<br/>
-🧠** angular **<br/>
-🦾**python**<br/>
-
+For that reason, and due in my desire to expand and deepen my knowledge, <br/>At this moment, I'm diving into:<br/>
+🧠**Angular**<br/>
+🦾**Python**<br/>
+🎯**JAVA**
 <p>
 It would be a pleasure to talk with you more detail about my professional career, my work experiences and my skills. I am available to answer any questions that you may have and eager to know you better and exchange experiences
 </p>
