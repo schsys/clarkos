@@ -22,7 +22,7 @@ I also get on the wave by jump into __Typescript__ and using it to create some p
 This toolbox is in continuous growth and update... it's almost like a living organism: it grows and strengthens the more it is used.
 For that reason, and due in my desire to expand and deepen my knowledge, at this moment I'm diving into __JAVA__ and learning how to implement __Microservices__ and __Cloud Services__.
 
-## Do you like to talk?
+## Did you like to talk?
 It would be a pleasure to share with you more detail about my professional career, my work experiences and my skills. 
 I am available to answer any questions that you may have and eager to know you better and exchange experiences
 
